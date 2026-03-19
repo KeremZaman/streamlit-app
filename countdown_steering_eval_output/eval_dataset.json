@@ -1,0 +1,2302 @@
+[
+  {
+    "prompt": "Using the numbers 95, 21, 3, create an equation that equals 88. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 88,
+      "nums": [
+        95,
+        21,
+        3
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 72, 30, 29, create an equation that equals 72. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 72,
+      "nums": [
+        72,
+        30,
+        29
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 67, 69, 69, create an equation that equals 71. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 71,
+      "nums": [
+        67,
+        69,
+        69
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 67, 79, 39, 56, create an equation that equals 77. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 77,
+      "nums": [
+        67,
+        79,
+        39,
+        56
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 6, 77, 73, 20, create an equation that equals 44. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 44,
+      "nums": [
+        6,
+        77,
+        73,
+        20
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 27, 95, 4, create an equation that equals 17. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 17,
+      "nums": [
+        27,
+        95,
+        4
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 87, 55, 98, 91, create an equation that equals 96. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 96,
+      "nums": [
+        87,
+        55,
+        98,
+        91
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 14, 32, 2, create an equation that equals 20. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 20,
+      "nums": [
+        14,
+        32,
+        2
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 57, 22, 54, create an equation that equals 66. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 66,
+      "nums": [
+        57,
+        22,
+        54
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 47, 14, 3, create an equation that equals 30. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 30,
+      "nums": [
+        47,
+        14,
+        3
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 22, 29, 69, create an equation that equals 62. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 62,
+      "nums": [
+        22,
+        29,
+        69
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 27, 83, 83, create an equation that equals 28. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 28,
+      "nums": [
+        27,
+        83,
+        83
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 18, 71, 86, 43, create an equation that equals 76. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 76,
+      "nums": [
+        18,
+        71,
+        86,
+        43
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 87, 96, 75, create an equation that equals 84. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 84,
+      "nums": [
+        87,
+        96,
+        75
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 90, 1, 64, 9, create an equation that equals 55. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 55,
+      "nums": [
+        90,
+        1,
+        64,
+        9
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 25, 48, 16, 65, create an equation that equals 24. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 24,
+      "nums": [
+        25,
+        48,
+        16,
+        65
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 52, 20, 90, 61, create an equation that equals 90. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 90,
+      "nums": [
+        52,
+        20,
+        90,
+        61
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 85, 1, 94, 83, create an equation that equals 48. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 48,
+      "nums": [
+        85,
+        1,
+        94,
+        83
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 84, 94, 45, 55, create an equation that equals 100. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 100,
+      "nums": [
+        84,
+        94,
+        45,
+        55
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 19, 94, 57, create an equation that equals 97. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 97,
+      "nums": [
+        19,
+        94,
+        57
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 9, 73, 38, 2, create an equation that equals 17. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 17,
+      "nums": [
+        9,
+        73,
+        38,
+        2
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 69, 12, 40, create an equation that equals 41. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 41,
+      "nums": [
+        69,
+        12,
+        40
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 17, 64, 63, 26, create an equation that equals 44. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 44,
+      "nums": [
+        17,
+        64,
+        63,
+        26
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 20, 2, 18, 26, create an equation that equals 26. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 26,
+      "nums": [
+        20,
+        2,
+        18,
+        26
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 31, 38, 34, 17, create an equation that equals 44. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 44,
+      "nums": [
+        31,
+        38,
+        34,
+        17
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 77, 33, 78, 86, create an equation that equals 52. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 52,
+      "nums": [
+        77,
+        33,
+        78,
+        86
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 5, 96, 84, 1, create an equation that equals 75. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 75,
+      "nums": [
+        5,
+        96,
+        84,
+        1
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 9, 3, 6, 73, create an equation that equals 28. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 28,
+      "nums": [
+        9,
+        3,
+        6,
+        73
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 93, 26, 29, create an equation that equals 96. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 96,
+      "nums": [
+        93,
+        26,
+        29
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 28, 44, 2, create an equation that equals 36. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 36,
+      "nums": [
+        28,
+        44,
+        2
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 33, 4, 2, 59, create an equation that equals 98. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 98,
+      "nums": [
+        33,
+        4,
+        2,
+        59
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 56, 83, 90, create an equation that equals 63. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 63,
+      "nums": [
+        56,
+        83,
+        90
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 39, 24, 76, create an equation that equals 13. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 13,
+      "nums": [
+        39,
+        24,
+        76
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 33, 4, 57, 67, create an equation that equals 92. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 92,
+      "nums": [
+        33,
+        4,
+        57,
+        67
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 7, 54, 6, 41, create an equation that equals 94. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 94,
+      "nums": [
+        7,
+        54,
+        6,
+        41
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 14, 55, 97, 21, create an equation that equals 28. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 28,
+      "nums": [
+        14,
+        55,
+        97,
+        21
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 58, 69, 68, 46, create an equation that equals 33. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 33,
+      "nums": [
+        58,
+        69,
+        68,
+        46
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 18, 73, 13, create an equation that equals 78. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 78,
+      "nums": [
+        18,
+        73,
+        13
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 31, 11, 77, create an equation that equals 24. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 24,
+      "nums": [
+        31,
+        11,
+        77
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 67, 1, 41, 25, create an equation that equals 83. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 83,
+      "nums": [
+        67,
+        1,
+        41,
+        25
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 25, 42, 13, 83, create an equation that equals 53. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 53,
+      "nums": [
+        25,
+        42,
+        13,
+        83
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 26, 28, 24, create an equation that equals 22. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 22,
+      "nums": [
+        26,
+        28,
+        24
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 85, 64, 44, create an equation that equals 65. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 65,
+      "nums": [
+        85,
+        64,
+        44
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 25, 35, 35, create an equation that equals 26. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 26,
+      "nums": [
+        25,
+        35,
+        35
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 45, 63, 58, create an equation that equals 50. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 50,
+      "nums": [
+        45,
+        63,
+        58
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 19, 25, 80, 60, create an equation that equals 14. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 14,
+      "nums": [
+        19,
+        25,
+        80,
+        60
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 41, 30, 9, create an equation that equals 80. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 80,
+      "nums": [
+        41,
+        30,
+        9
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 27, 19, 16, 60, create an equation that equals 90. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 90,
+      "nums": [
+        27,
+        19,
+        16,
+        60
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 15, 16, 45, create an equation that equals 76. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 76,
+      "nums": [
+        15,
+        16,
+        45
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 44, 44, 48, 27, create an equation that equals 38. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 38,
+      "nums": [
+        44,
+        44,
+        48,
+        27
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 15, 23, 57, create an equation that equals 19. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 19,
+      "nums": [
+        15,
+        23,
+        57
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 25, 76, 9, 19, create an equation that equals 61. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 61,
+      "nums": [
+        25,
+        76,
+        9,
+        19
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 66, 78, 4, 81, create an equation that equals 65. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 65,
+      "nums": [
+        66,
+        78,
+        4,
+        81
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 86, 28, 37, create an equation that equals 77. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 77,
+      "nums": [
+        86,
+        28,
+        37
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 12, 5, 18, 82, create an equation that equals 58. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 58,
+      "nums": [
+        12,
+        5,
+        18,
+        82
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 53, 20, 19, 17, create an equation that equals 37. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 37,
+      "nums": [
+        53,
+        20,
+        19,
+        17
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 12, 84, 98, create an equation that equals 91. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 91,
+      "nums": [
+        12,
+        84,
+        98
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 2, 25, 79, 17, create an equation that equals 100. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 100,
+      "nums": [
+        2,
+        25,
+        79,
+        17
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 50, 90, 53, 72, create an equation that equals 36. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 36,
+      "nums": [
+        50,
+        90,
+        53,
+        72
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 57, 91, 15, 9, create an equation that equals 83. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 83,
+      "nums": [
+        57,
+        91,
+        15,
+        9
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 2, 37, 5, create an equation that equals 47. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 47,
+      "nums": [
+        2,
+        37,
+        5
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 9, 28, 23, create an equation that equals 45. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 45,
+      "nums": [
+        9,
+        28,
+        23
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 54, 14, 3, create an equation that equals 32. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 32,
+      "nums": [
+        54,
+        14,
+        3
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 8, 15, 77, create an equation that equals 100. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 100,
+      "nums": [
+        8,
+        15,
+        77
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 3, 72, 39, create an equation that equals 59. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 59,
+      "nums": [
+        3,
+        72,
+        39
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 99, 79, 42, create an equation that equals 62. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 62,
+      "nums": [
+        99,
+        79,
+        42
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 84, 94, 31, create an equation that equals 41. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 41,
+      "nums": [
+        84,
+        94,
+        31
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 38, 51, 30, create an equation that equals 43. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 43,
+      "nums": [
+        38,
+        51,
+        30
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 41, 98, 43, create an equation that equals 96. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 96,
+      "nums": [
+        41,
+        98,
+        43
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 99, 6, 94, 81, create an equation that equals 15. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 15,
+      "nums": [
+        99,
+        6,
+        94,
+        81
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 74, 39, 66, 81, create an equation that equals 71. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 71,
+      "nums": [
+        74,
+        39,
+        66,
+        81
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 78, 5, 97, create an equation that equals 24. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 24,
+      "nums": [
+        78,
+        5,
+        97
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 29, 5, 41, create an equation that equals 14. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 14,
+      "nums": [
+        29,
+        5,
+        41
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 89, 71, 18, create an equation that equals 36. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 36,
+      "nums": [
+        89,
+        71,
+        18
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 58, 37, 35, create an equation that equals 29. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 29,
+      "nums": [
+        58,
+        37,
+        35
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 46, 41, 37, 10, create an equation that equals 14. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 14,
+      "nums": [
+        46,
+        41,
+        37,
+        10
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 76, 38, 95, create an equation that equals 57. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 57,
+      "nums": [
+        76,
+        38,
+        95
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 53, 66, 55, 12, create an equation that equals 30. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 30,
+      "nums": [
+        53,
+        66,
+        55,
+        12
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 34, 76, 99, create an equation that equals 11. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 11,
+      "nums": [
+        34,
+        76,
+        99
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 80, 34, 76, 54, create an equation that equals 24. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 24,
+      "nums": [
+        80,
+        34,
+        76,
+        54
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 98, 58, 47, 33, create an equation that equals 26. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 26,
+      "nums": [
+        98,
+        58,
+        47,
+        33
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 4, 96, 74, create an equation that equals 26. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 26,
+      "nums": [
+        4,
+        96,
+        74
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 17, 2, 68, 41, create an equation that equals 35. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 35,
+      "nums": [
+        17,
+        2,
+        68,
+        41
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 1, 38, 21, create an equation that equals 59. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 59,
+      "nums": [
+        1,
+        38,
+        21
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 71, 15, 13, 58, create an equation that equals 66. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 66,
+      "nums": [
+        71,
+        15,
+        13,
+        58
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 69, 53, 62, create an equation that equals 60. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 60,
+      "nums": [
+        69,
+        53,
+        62
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 88, 66, 20, create an equation that equals 15. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 15,
+      "nums": [
+        88,
+        66,
+        20
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 85, 26, 26, create an equation that equals 86. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 86,
+      "nums": [
+        85,
+        26,
+        26
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 22, 12, 19, create an equation that equals 29. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 29,
+      "nums": [
+        22,
+        12,
+        19
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 23, 2, 69, 24, create an equation that equals 22. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 22,
+      "nums": [
+        23,
+        2,
+        69,
+        24
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 67, 65, 87, 38, create an equation that equals 83. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 83,
+      "nums": [
+        67,
+        65,
+        87,
+        38
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 26, 14, 52, create an equation that equals 16. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 16,
+      "nums": [
+        26,
+        14,
+        52
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 95, 34, 17, 84, create an equation that equals 53. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 53,
+      "nums": [
+        95,
+        34,
+        17,
+        84
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 16, 26, 73, 10, create an equation that equals 72. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 72,
+      "nums": [
+        16,
+        26,
+        73,
+        10
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 19, 17, 74, 32, create an equation that equals 78. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 78,
+      "nums": [
+        19,
+        17,
+        74,
+        32
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 79, 79, 81, 71, create an equation that equals 87. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 87,
+      "nums": [
+        79,
+        79,
+        81,
+        71
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 84, 7, 65, create an equation that equals 77. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 77,
+      "nums": [
+        84,
+        7,
+        65
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 92, 51, 61, 78, create an equation that equals 58. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 58,
+      "nums": [
+        92,
+        51,
+        61,
+        78
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 79, 98, 54, 22, create an equation that equals 51. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 51,
+      "nums": [
+        79,
+        98,
+        54,
+        22
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 32, 24, 14, 6, create an equation that equals 92. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 92,
+      "nums": [
+        32,
+        24,
+        14,
+        6
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 17, 20, 15, 26, create an equation that equals 32. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 32,
+      "nums": [
+        17,
+        20,
+        15,
+        26
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 65, 62, 96, create an equation that equals 31. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 31,
+      "nums": [
+        65,
+        62,
+        96
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 77, 33, 56, create an equation that equals 24. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 24,
+      "nums": [
+        77,
+        33,
+        56
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 5, 76, 60, 26, create an equation that equals 94. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 94,
+      "nums": [
+        5,
+        76,
+        60,
+        26
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 17, 84, 19, 22, create an equation that equals 13. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 13,
+      "nums": [
+        17,
+        84,
+        19,
+        22
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 50, 98, 31, 16, create an equation that equals 34. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 34,
+      "nums": [
+        50,
+        98,
+        31,
+        16
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 8, 97, 6, create an equation that equals 99. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 99,
+      "nums": [
+        8,
+        97,
+        6
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 68, 25, 94, 88, create an equation that equals 87. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 87,
+      "nums": [
+        68,
+        25,
+        94,
+        88
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 94, 66, 70, 65, create an equation that equals 33. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 33,
+      "nums": [
+        94,
+        66,
+        70,
+        65
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 97, 32, 26, create an equation that equals 39. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 39,
+      "nums": [
+        97,
+        32,
+        26
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 44, 21, 47, 27, create an equation that equals 12. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 12,
+      "nums": [
+        44,
+        21,
+        47,
+        27
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 52, 48, 78, create an equation that equals 74. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 74,
+      "nums": [
+        52,
+        48,
+        78
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 60, 3, 59, 97, create an equation that equals 72. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 72,
+      "nums": [
+        60,
+        3,
+        59,
+        97
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 22, 86, 52, 61, create an equation that equals 15. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 15,
+      "nums": [
+        22,
+        86,
+        52,
+        61
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 96, 85, 97, create an equation that equals 86. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 86,
+      "nums": [
+        96,
+        85,
+        97
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 42, 52, 3, create an equation that equals 66. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 66,
+      "nums": [
+        42,
+        52,
+        3
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 53, 50, 13, create an equation that equals 39. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 39,
+      "nums": [
+        53,
+        50,
+        13
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 80, 79, 35, 39, create an equation that equals 75. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 75,
+      "nums": [
+        80,
+        79,
+        35,
+        39
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 84, 32, 47, create an equation that equals 69. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 69,
+      "nums": [
+        84,
+        32,
+        47
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 8, 13, 64, create an equation that equals 69. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 69,
+      "nums": [
+        8,
+        13,
+        64
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 42, 10, 48, create an equation that equals 60. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 60,
+      "nums": [
+        42,
+        10,
+        48
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 86, 80, 40, create an equation that equals 84. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 84,
+      "nums": [
+        86,
+        80,
+        40
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 80, 89, 58, 83, create an equation that equals 85. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 85,
+      "nums": [
+        80,
+        89,
+        58,
+        83
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 66, 91, 15, create an equation that equals 10. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 10,
+      "nums": [
+        66,
+        91,
+        15
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 74, 1, 91, 69, create an equation that equals 52. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 52,
+      "nums": [
+        74,
+        1,
+        91,
+        69
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 80, 25, 56, 26, create an equation that equals 24. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 24,
+      "nums": [
+        80,
+        25,
+        56,
+        26
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 94, 21, 54, 89, create an equation that equals 80. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 80,
+      "nums": [
+        94,
+        21,
+        54,
+        89
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 41, 55, 67, 23, create an equation that equals 58. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 58,
+      "nums": [
+        41,
+        55,
+        67,
+        23
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 85, 15, 54, 24, create an equation that equals 21. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 21,
+      "nums": [
+        85,
+        15,
+        54,
+        24
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 63, 5, 99, 19, create an equation that equals 12. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 12,
+      "nums": [
+        63,
+        5,
+        99,
+        19
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 14, 19, 42, create an equation that equals 47. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 47,
+      "nums": [
+        14,
+        19,
+        42
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 47, 46, 24, 1, create an equation that equals 68. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 68,
+      "nums": [
+        47,
+        46,
+        24,
+        1
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 44, 20, 54, create an equation that equals 78. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 78,
+      "nums": [
+        44,
+        20,
+        54
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 20, 26, 18, 86, create an equation that equals 69. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 69,
+      "nums": [
+        20,
+        26,
+        18,
+        86
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 73, 23, 3, create an equation that equals 93. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 93,
+      "nums": [
+        73,
+        23,
+        3
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 21, 63, 90, create an equation that equals 87. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 87,
+      "nums": [
+        21,
+        63,
+        90
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 5, 55, 10, 1, create an equation that equals 28. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 28,
+      "nums": [
+        5,
+        55,
+        10,
+        1
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 12, 52, 94, 63, create an equation that equals 93. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 93,
+      "nums": [
+        12,
+        52,
+        94,
+        63
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 98, 27, 17, 61, create an equation that equals 47. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 47,
+      "nums": [
+        98,
+        27,
+        17,
+        61
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 52, 38, 63, create an equation that equals 49. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 49,
+      "nums": [
+        52,
+        38,
+        63
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 39, 95, 12, 37, create an equation that equals 81. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 81,
+      "nums": [
+        39,
+        95,
+        12,
+        37
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 44, 22, 3, 18, create an equation that equals 51. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 51,
+      "nums": [
+        44,
+        22,
+        3,
+        18
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 14, 21, 17, create an equation that equals 56. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 56,
+      "nums": [
+        14,
+        21,
+        17
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 23, 15, 26, create an equation that equals 64. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 64,
+      "nums": [
+        23,
+        15,
+        26
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 31, 16, 82, create an equation that equals 97. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 97,
+      "nums": [
+        31,
+        16,
+        82
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 31, 98, 99, create an equation that equals 31. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 31,
+      "nums": [
+        31,
+        98,
+        99
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 24, 90, 86, 27, create an equation that equals 21. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 21,
+      "nums": [
+        24,
+        90,
+        86,
+        27
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 70, 71, 65, create an equation that equals 65. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 65,
+      "nums": [
+        70,
+        71,
+        65
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 26, 2, 13, 32, create an equation that equals 71. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 71,
+      "nums": [
+        26,
+        2,
+        13,
+        32
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 91, 16, 80, create an equation that equals 96. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 96,
+      "nums": [
+        91,
+        16,
+        80
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 40, 86, 14, create an equation that equals 60. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 60,
+      "nums": [
+        40,
+        86,
+        14
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 95, 14, 39, 62, create an equation that equals 20. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 20,
+      "nums": [
+        95,
+        14,
+        39,
+        62
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 77, 1, 12, create an equation that equals 88. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 88,
+      "nums": [
+        77,
+        1,
+        12
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 52, 41, 11, 58, create an equation that equals 36. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 36,
+      "nums": [
+        52,
+        41,
+        11,
+        58
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 4, 9, 2, create an equation that equals 10. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 10,
+      "nums": [
+        4,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 64, 56, 17, 5, create an equation that equals 10. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 10,
+      "nums": [
+        64,
+        56,
+        17,
+        5
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 23, 97, 88, 30, create an equation that equals 92. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 92,
+      "nums": [
+        23,
+        97,
+        88,
+        30
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 6, 27, 36, create an equation that equals 15. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 15,
+      "nums": [
+        6,
+        27,
+        36
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 78, 2, 69, 51, create an equation that equals 98. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 98,
+      "nums": [
+        78,
+        2,
+        69,
+        51
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 94, 96, 88, 6, create an equation that equals 76. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 76,
+      "nums": [
+        94,
+        96,
+        88,
+        6
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 28, 88, 30, 56, create an equation that equals 44. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 44,
+      "nums": [
+        28,
+        88,
+        30,
+        56
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 2, 91, 32, 34, create an equation that equals 55. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 55,
+      "nums": [
+        2,
+        91,
+        32,
+        34
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 54, 67, 3, create an equation that equals 16. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 16,
+      "nums": [
+        54,
+        67,
+        3
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 48, 40, 7, 84, create an equation that equals 63. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 63,
+      "nums": [
+        48,
+        40,
+        7,
+        84
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 29, 12, 4, 83, create an equation that equals 70. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 70,
+      "nums": [
+        29,
+        12,
+        4,
+        83
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 24, 21, 2, 67, create an equation that equals 40. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 40,
+      "nums": [
+        24,
+        21,
+        2,
+        67
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 14, 83, 49, create an equation that equals 48. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 48,
+      "nums": [
+        14,
+        83,
+        49
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 1, 13, 17, create an equation that equals 31. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 31,
+      "nums": [
+        1,
+        13,
+        17
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 33, 51, 1, create an equation that equals 18. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 18,
+      "nums": [
+        33,
+        51,
+        1
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 50, 96, 78, 73, create an equation that equals 39. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 39,
+      "nums": [
+        50,
+        96,
+        78,
+        73
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 57, 33, 32, create an equation that equals 58. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 58,
+      "nums": [
+        57,
+        33,
+        32
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 6, 36, 90, 81, create an equation that equals 78. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 78,
+      "nums": [
+        6,
+        36,
+        90,
+        81
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 36, 66, 20, create an equation that equals 10. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 10,
+      "nums": [
+        36,
+        66,
+        20
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 9, 38, 34, create an equation that equals 13. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 13,
+      "nums": [
+        9,
+        38,
+        34
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 64, 31, 43, create an equation that equals 52. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 52,
+      "nums": [
+        64,
+        31,
+        43
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 28, 35, 81, 33, create an equation that equals 41. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 41,
+      "nums": [
+        28,
+        35,
+        81,
+        33
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 35, 30, 89, create an equation that equals 94. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 94,
+      "nums": [
+        35,
+        30,
+        89
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 61, 67, 59, 69, create an equation that equals 57. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 57,
+      "nums": [
+        61,
+        67,
+        59,
+        69
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 60, 4, 84, 72, create an equation that equals 76. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 76,
+      "nums": [
+        60,
+        4,
+        84,
+        72
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 84, 89, 95, create an equation that equals 100. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 100,
+      "nums": [
+        84,
+        89,
+        95
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 57, 4, 33, create an equation that equals 75. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 75,
+      "nums": [
+        57,
+        4,
+        33
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 64, 99, 84, create an equation that equals 49. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 49,
+      "nums": [
+        64,
+        99,
+        84
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 59, 98, 52, create an equation that equals 91. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 91,
+      "nums": [
+        59,
+        98,
+        52
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 95, 45, 10, create an equation that equals 60. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 60,
+      "nums": [
+        95,
+        45,
+        10
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 10, 67, 67, create an equation that equals 10. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 10,
+      "nums": [
+        10,
+        67,
+        67
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 98, 6, 82, create an equation that equals 30. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 30,
+      "nums": [
+        98,
+        6,
+        82
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 62, 48, 45, create an equation that equals 59. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 59,
+      "nums": [
+        62,
+        48,
+        45
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 35, 76, 42, create an equation that equals 69. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 69,
+      "nums": [
+        35,
+        76,
+        42
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 3, 86, 17, 47, create an equation that equals 50. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 50,
+      "nums": [
+        3,
+        86,
+        17,
+        47
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 72, 36, 7, 18, create an equation that equals 67. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 67,
+      "nums": [
+        72,
+        36,
+        7,
+        18
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 34, 44, 60, create an equation that equals 50. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 50,
+      "nums": [
+        34,
+        44,
+        60
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 78, 44, 79, 2, create an equation that equals 42. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 42,
+      "nums": [
+        78,
+        44,
+        79,
+        2
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 14, 84, 34, 57, create an equation that equals 75. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 75,
+      "nums": [
+        14,
+        84,
+        34,
+        57
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 60, 69, 80, 6, create an equation that equals 51. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 51,
+      "nums": [
+        60,
+        69,
+        80,
+        6
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 34, 20, 79, 9, create an equation that equals 100. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 100,
+      "nums": [
+        34,
+        20,
+        79,
+        9
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 59, 70, 28, create an equation that equals 17. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 17,
+      "nums": [
+        59,
+        70,
+        28
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 96, 12, 59, create an equation that equals 67. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 67,
+      "nums": [
+        96,
+        12,
+        59
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 60, 2, 65, 64, create an equation that equals 71. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 71,
+      "nums": [
+        60,
+        2,
+        65,
+        64
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 29, 11, 74, create an equation that equals 34. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 34,
+      "nums": [
+        29,
+        11,
+        74
+      ]
+    }
+  },
+  {
+    "prompt": "Using the numbers 60, 21, 5, 68, create an equation that equals 65. You can use basic arithmetic operations (+, -, *, /) and each number can only be used once. Return the final answer in <answer> </answer> tags.",
+    "metadata": {
+      "target": 65,
+      "nums": [
+        60,
+        21,
+        5,
+        68
+      ]
+    }
+  }
+]
