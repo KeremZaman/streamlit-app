@@ -20,17 +20,19 @@ import streamlit as st
 SCRIPT_DIR = Path(__file__).resolve().parent
 
 TASK_DIRS = {
-    "maze": SCRIPT_DIR / "steering_eval_output",
-    "maze_segment_based": SCRIPT_DIR / "steering_eval_output_segment_based",
-    "countdown": SCRIPT_DIR / "countdown_steering_eval_output",
-    "pubmedqa": SCRIPT_DIR / "pubmedqa_steering_eval_output",
+    #"maze": SCRIPT_DIR / "steering_eval_output",
+    #"maze_segment_based": SCRIPT_DIR / "steering_eval_output_segment_based",
+    #"countdown": SCRIPT_DIR / "countdown_steering_eval_output",
+    #"pubmedqa": SCRIPT_DIR / "pubmedqa_steering_eval_output",
+    "countdown": SCRIPT_DIR / "smolLM3-3B_cd_steering_on_cd"
 }
 
 BACKTRACK_PHRASES = [
-    "wait", "alternatively", "go back", "backtrack", "let me reconsider",
-    "on second thought", "actually", "however", "but then", "re-evaluate",
-    "reconsider", "I was wrong", "that's not right", "let me rethink",
-    "dead end", "wrong path", "try another", "different path",
+    'backtrack', 'different technique', 'I was wrong', 'let me reconsider', 'however', 'wrong path', 
+    'wait', 'let me rethink', 'different path', 'go back', 'try another', 'different method', 
+    'rethink', "that's not right", 'wrong solution', 'actually', 'different solution', 're-evaluate', 
+    'different approach', 'reconsider', 'but then', 'different algorithm', 'dead end', 'different strategy', 
+    'alternatively', 'on second thought'
 ]
 
 
